@@ -1,0 +1,115 @@
+nav li.icon a:before {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Genericons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1rem;
+  vertical-align: bottom;
+  content: '\f107';
+}
+nav li.icon a[href*="behance.net"]:before,
+nav li.icon a[href*="bloglovin.com"]:before {
+  content: '\f471';
+}
+nav li.icon a[href*="soundcloud.com"]:before {
+  content: '\f426';
+}
+nav li.icon a[href*="codepen.com"]:before {
+  content: '\f216';
+}
+nav li.icon a[href*="dribbble.com"]:before {
+  content: '\f201';
+}
+nav li.icon a[href*="dropbox.com"]:before {
+  content: '\f225';
+}
+nav li.icon a[href*="facebook.com"]:before {
+  content: '\f204';
+}
+nav li.icon a[href*="/feed/"]:before,
+nav li.icon a[href*=".rss"]:before {
+  content: '\f413';
+}
+nav li.icon a[href*="flickr.com"]:before {
+  content: '\f211';
+}
+nav li.icon a[href*="plus.google.com"]:before {
+  content: '\f206';
+}
+nav li.icon a[href*="github.com"]:before {
+  content: '\f200';
+}
+nav li.icon a[href*="instagram.com"]:before {
+  content: '\f215';
+}
+nav li.icon a[href*="linkedin.com"]:before {
+  content: '\f207';
+}
+nav li.icon a[href*="/contact/"]:before,
+nav li.icon a[href^="mailto:"]:before {
+  content: '\f410';
+}
+nav li.icon a[href*="pinterest.com"]:before {
+  content: '\f209';
+}
+nav li.icon a[href*="polldaddy.com"]:before {
+  content: '\f217';
+}
+nav li.icon a[href*="path.com"]:before {
+  content: '\f219';
+}
+nav li.icon a[href*="getpocket.com"]:before {
+  content: '\f224';
+}
+nav li.icon a[href*="reddit.com"]:before {
+  content: '\f222';
+}
+nav li.icon a[href^="skype:"]:before {
+  content: '\f220';
+}
+nav li.icon a[href*="spotify.com"]:before {
+  content: '\f515';
+}
+nav li.icon a[href*="stumbleupon.com"]:before {
+  content: '\f223';
+}
+nav li.icon a[href*="tumblr.com"]:before {
+  content: '\f214';
+}
+nav li.icon a[href*="twitch.com"]:before {
+  content: '\f516';
+}
+nav li.icon a[href*="twitter.com"]:before {
+  content: '\f202';
+}
+nav li.icon a[href*="vine.co"]:before {
+  content: '\f104';
+}
+nav li.icon a[href*="vimeo.com"]:before {
+  content: '\f212';
+}
+nav li.icon a[href*="wordpress.com"]:before,
+nav li.icon a[href*="wordpress.org"]:before {
+  content: '\f205';
+}
+nav li.icon a[href*="youtube.com"]:before {
+  content: '\f213';
+}
+nav li.icon a:before {
+  vertical-align: middle;
+  margin-right: 0.1em;
+}
+body.block-editor-page div.editor-post-title__block .editor-post-title__input {
+  font-family: 'Oswald', sans-serif;
+  font-size: 45px;
+  font-weight: normal;
+  color: black;
+}
+.editor-rich-text__tinymce.mce-content-body {
+  line-height: inherit;
+}
+.block-editor-block-list__layout .block-editor-block-list__block.alignfull,
+.block-editor-block-list__layout .block-editor-block-list__block[data-align=full] {
+  margin-left: 0;
+  margin-right: 0;
+}
