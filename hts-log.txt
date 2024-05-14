@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Apr 2024 18:19:25 at https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/ -O1 "C:\Users\User\Desktop\blog reclame\blog reclame aqui" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:20:25	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/)
+18:20:25	Error: 	"Not Found" (404) at link https://portaldeatendimento.wpcomstaging.com/wp-content/uploads/2023/01/feed-blog-Lojas-confiaveis-01-1024x1024.png (from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/)
+18:20:25	Error: 	"Not Found" (404) at link https://portaldeatendimento.wpcomstaging.com/wp-content/uploads/2023/01/feed-blog-Lojas-confiaveis-02-1024x1024.png (from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/)
+18:20:25	Error: 	"Not Found" (404) at link https://portaldeatendimento.wpcomstaging.com/wp-content/uploads/2023/01/feed-blog-Lojas-confiaveis-03-1024x1024.png (from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/)
+18:20:25	Error: 	"Not Found" (404) at link https://portaldeatendimento.wpcomstaging.com/wp-content/uploads/2022/10/redes-sociais-1.png (from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/)
+18:20:25	Warning: 	Found for https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=jetpack-whatsapp
+18:20:25	Warning: 	File has moved from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Quais%20as%20lojas%20mais%20confi%C3%A1veis%20da%20internet%3F%20Tem%20como%20saber%3F%20https%3A%2F%2Fblog.reclameaqui.com.br%2Fquais-as-lojas-mais-confiaveis-da-internet-tem-como-saber%2F
+18:20:25	Warning: 	Found for https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=facebook
+18:20:25	Warning: 	File has moved from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fblog.reclameaqui.com.br%2Fquais-as-lojas-mais-confiaveis-da-internet-tem-como-saber%2F&t=Quais%20as%20lojas%20mais%20confi%C3%A1veis%20da%20internet%3F%20Tem%20como%20saber%3F
+18:20:25	Warning: 	Found for https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=linkedin
+18:20:25	Warning: 	File has moved from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=linkedin to https://www.linkedin.com/cws/share?token&isFramed=false&url=https%3A%2F%2Fblog.reclameaqui.com.br%2Fquais-as-lojas-mais-confiaveis-da-internet-tem-como-saber%2F
+18:20:25	Warning: 	Found for https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=twitter
+18:20:25	Warning: 	File has moved from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=twitter to https://twitter.com/intent/tweet?text=Quais%20as%20lojas%20mais%20confi%C3%A1veis%20da%20internet%3F%20Tem%20como%20saber%3F&url=https%3A%2F%2Fblog.reclameaqui.com.br%2Fquais-as-lojas-mais-confiaveis-da-internet-tem-como-saber%2F
+18:20:25	Warning: 	Found for https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=email
+18:20:25	Warning: 	File has moved from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?share=email to https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/?shared=email&msg=fail
+18:20:26	Error: 	"Not Found" (404) at link https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/iframe.src (from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/)
+18:20:26	Error: 	"Not Found" (404) at link https://portaldeatendimento.wpcomstaging.com/wp-content/uploads/2019/06/logo_blogra.png (from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/amp/)
+18:20:26	Error: 	"Not Found" (404) at link https://portaldeatendimento.wpcomstaging.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png (from https://blog.reclameaqui.com.br/quais-as-lojas-mais-confiaveis-da-internet-tem-como-saber/amp/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 149 links scanned, 135 files written (5779192 bytes overall) [2558648 bytes received at 38767 bytes/sec], 4492104 bytes transferred using HTTP compression in 101 files, ratio 20%, 6.4 requests per connection
+(8 errors, 10 warnings, 0 messages)
